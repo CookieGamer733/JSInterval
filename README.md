@@ -22,7 +22,7 @@ Install JSInterval with npm
 ### HTML
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/cookiegamer733/jsinterval/dist/jsinterval.min.js">
+<script src="https://cdn.jsdelivr.net/gh/CookieGamer733/JSInterval/dist/jsinterval.min.js">
 <script>
   const timer = new Interval({
     func: () => {
@@ -51,7 +51,8 @@ const timer = new Interval({
 
 ## Documentation
 
-[Documentation](https://cookiegamer733.dev/projects/jsinterval/documentation)
+Documentation is not public yet
+<!-- [Documentation](https://cookiegamer733.dev/projects/jsinterval/docs/) -->
 
 ## Support
 
