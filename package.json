@@ -1,0 +1,20 @@
+{
+  "name": "jsinterval",
+  "version": "4.0.0",
+  "description": "JSInterval is a JavaScript library that makes working with intervals easier.",
+  "keywords": [
+    "interval",
+    "timer"
+  ],
+  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "author": {
+    "name": "CookieGamer733",
+    "email": "keithbrown7526@outlook.com",
+    "url": "https://cookiegamer733.dev/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ms": "2.1.3"
+  }
+}
