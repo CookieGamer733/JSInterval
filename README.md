@@ -1,3 +1,12 @@
+<div align="center">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/cookiegamer733/jsinterval/njsscan%20sarif">
+  <img alt="Libraries.io dependency status for latest release" src="https://img.shields.io/librariesio/release/npm/ms">
+  <img alt="jsDelivr hits (GitHub)" src="https://img.shields.io/jsdelivr/gh/hw/cookiegamer733/jsinterval">
+  <img alt="npm" src="https://img.shields.io/npm/dw/jsinterval">
+  <img alt="GitHub" src="https://img.shields.io/github/license/cookiegamer733/jsinterval">
+  <img alt="npm" src="https://img.shields.io/npm/v/jsinterval">
+</div>
+
 # JSInterval
 
 ## Description
